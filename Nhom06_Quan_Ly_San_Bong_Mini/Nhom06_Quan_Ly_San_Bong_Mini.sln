@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nhom06_Quan_Ly_San_Bong_Mini", "Nhom06_Quan_Ly_San_Bong_Mini\Nhom06_Quan_Ly_San_Bong_Mini.csproj", "{12C7B095-5205-4740-BF6D-76B904FC10DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12C7B095-5205-4740-BF6D-76B904FC10DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12C7B095-5205-4740-BF6D-76B904FC10DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12C7B095-5205-4740-BF6D-76B904FC10DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12C7B095-5205-4740-BF6D-76B904FC10DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
